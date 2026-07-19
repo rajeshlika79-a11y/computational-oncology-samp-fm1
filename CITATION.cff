@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "SAMP-FM Reference Implementation"
+message: "Please cite this software and the associated manuscript."
+type: software
+authors:
+  - family-names: "Bajaj"
+    given-names: "Rajesh"
+version: 0.1.0
+repository-code: "https://github.com/<USERNAME>/<REPOSITORY>"
+license: MIT
